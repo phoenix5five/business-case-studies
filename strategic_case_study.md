@@ -10,22 +10,22 @@ This case study outlines the systematic approach, data-driven insights, and fina
 ## ** The Challenge: Identifying the Root Causes of Losses**
 The company, a multinational industrial manufacturer, was experiencing persistent financial struggles. A detailed business audit revealed:
 
-### ** 1️ Supply Chain Inefficiencies**  
+### ** 1 Supply Chain Inefficiencies**  
 - **22% of raw materials were delayed**, causing frequent production stoppages.
 - Poor supplier diversification resulted in **high dependence on a few vendors**, increasing risk exposure.
 - Inventory mismanagement led to an **excess stock of $40M**, tying up working capital.
 
-### ** 2️ Inaccurate Demand Forecasting**  
+### ** 2 Inaccurate Demand Forecasting**  
 - **40% forecasting error rate** resulted in product shortages and excessive stock.
 - Misaligned sales and production teams led to **reactive rather than proactive planning**.
 - Manual forecasting models lacked the agility needed for market fluctuations.
 
-### ** 3️ Operational Bottlenecks**  
+### ** 3 Operational Bottlenecks**  
 - **15% unplanned machine downtime**, leading to production backlogs.
 - Lack of standardized workflows across global manufacturing sites.
 - High defect rates (8%) due to inadequate quality control.
 
-### ** 4️ Short-Sighted Cost-Cutting Measures**  
+### ** 4 Short-Sighted Cost-Cutting Measures**  
 - Reduction in key personnel in quality control and supply chain teams.
 - Over-reliance on overtime labor, increasing operational costs.
 - Failure to invest in process automation and predictive analytics.
@@ -36,7 +36,7 @@ The cumulative effect of these inefficiencies resulted in **$150M in annual fina
 
 ## ** The Strategic Approach: A Systematic Business Turnaround**
 
-### ** 1️ Supply Chain Transformation & Risk Mitigation**  
+### ** 1 Supply Chain Transformation & Risk Mitigation**  
 - Implemented **real-time supplier tracking** and AI-driven analytics to anticipate and mitigate delays.  
 - Shifted to **dual-supplier sourcing** to reduce dependence on a single vendor.  
 - Reduced lead times from **45 to 25 days** through process optimization.  
@@ -46,7 +46,7 @@ The cumulative effect of these inefficiencies resulted in **$150M in annual fina
 
 ---
 
-### ** 2️ AI-Powered Demand Forecasting**  
+### ** 2 AI-Powered Demand Forecasting**  
 - Deployed **machine learning models** to enhance demand predictions.  
 - Integrated **real-time sales data** into forecasting models for agility.  
 - Reduced forecasting errors from **40% to 12%**, preventing overproduction.  
@@ -55,7 +55,7 @@ The cumulative effect of these inefficiencies resulted in **$150M in annual fina
 
 ---
 
-### ** 3️ Operational Process Redesign & Efficiency Gains**  
+### ** 3 Operational Process Redesign & Efficiency Gains**  
 - Conducted a full **workflow analysis** and eliminated redundant production steps.  
 - Implemented **predictive maintenance**, reducing machine downtime by **30%**.  
 - Standardized production processes across multiple plants to drive efficiency.  
@@ -64,7 +64,7 @@ The cumulative effect of these inefficiencies resulted in **$150M in annual fina
 
 ---
 
-### ** 4️ Strategic Workforce & Quality Control Restructuring**  
+### ** 4 Strategic Workforce & Quality Control Restructuring**  
 - Reinstated critical roles in **quality control and process engineering**.  
 - Introduced **data-driven performance incentives** to enhance workforce productivity.  
 - Upskilled employees with training in **lean manufacturing and AI-driven decision-making**.  
